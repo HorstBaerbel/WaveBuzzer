@@ -21,6 +21,7 @@ Visual Studio 2015, G++ 5.4 or Clang 3.9 (C++11 support) are needed. For install
 
 Keys
 ========
+
 **Software**
 ALT+F4 - Exit
 F11 - Toggle window/full-screen.
@@ -46,3 +47,8 @@ Space or joystick button - Start/stop timer.
 H - Stag sound #1.  
 J - Stag sound #2.  
 K - Stag sound #3.  
+
+I found a bug or have suggestion
+========
+
+The best way to report a bug or suggest something is to post an issue on GitHub. Try to make it simple, but descriptive and add ALL the information needed to REPRODUCE the bug. **"Does not work" is not enough!** If you can not compile, please state your system, compiler version, etc! You can also contact me via email if you want to.
