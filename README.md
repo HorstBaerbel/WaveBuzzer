@@ -22,11 +22,11 @@ Visual Studio 2015, G++ 5.4 or Clang 3.9 (C++11 support) are needed. For install
 Keys
 ========
 
-**Software**
+**Software**  
 ALT+F4 - Exit
 F11 - Toggle window/full-screen.
 
-**Teams and scores**
+**Teams and scores**  
 F1 - Show/hide team 1.  
 F2 - Show/hide team 2.  
 F3 - Show/hide team 3.  
@@ -39,11 +39,11 @@ F4 - Show/hide team 4.
  * Left-click team name to edit. Editing stops when pressing return or clicking out of the team name edit field.  
  * The laurel marks the team with the highes score. Only scores from visible teams are taken into account.  
 
-**Timer**
+**Timer**  
 Space or joystick button - Start/stop timer.  
  * Right-click onto the window to select the joystick used or adjust the timer.  
 
-**Gimmicks**
+**Gimmicks**  
 H - Stag sound #1.  
 J - Stag sound #2.  
 K - Stag sound #3.  
