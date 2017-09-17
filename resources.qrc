@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>lorbeer_64x64.png</file>
+    </qresource>
+    <qresource prefix="/back">
+        <file>Frame_1920x1080_sw_dark.jpg</file>
+    </qresource>
+    <qresource prefix="/sounds">
+        <file>BUZZER_short.wav</file>
+        <file>clock_ticking.wav</file>
+        <file>hirsch3.wav</file>
+        <file>hirsch_haha1.wav</file>
+        <file>hirsch1.wav</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>lorbeer.gif</file>
+    </qresource>
+</RCC>
